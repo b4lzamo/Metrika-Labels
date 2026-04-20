@@ -28,7 +28,7 @@ javascript:(()=>{if(!/metrika\.yandex\.(ru|com)$/i.test(location.hostname)){aler
 ## 2) Создайте закладку
 
 ### Вариант A (рекомендуется): через `installer.html`
-1. Откройте файл [installer.html](D:/Vibecoding/Yandex Metrika Vivod Chisel/installer.html) в браузере.
+1. Откройте файл [installer.html] в браузере.
 2. Включите панель закладок (`Ctrl+Shift+B` на Windows/Linux, `Cmd+Shift+B` на macOS).
 3. Во 2-м пункте на странице перетащите кнопку `Metrika Labels` на панель закладок.
 4. Откройте Метрику и нажмите закладку для включения/выключения подписей.
